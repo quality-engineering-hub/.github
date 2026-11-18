@@ -1,7 +1,7 @@
 # Quality Engineering Hub
 
 <p align="center">
-  <img src="https://canva.link/35teg9sfnbaoedt" alt="Quality Engineering Hub" width="100%">
+  <img src="./QUALITY ENGINEERING HUB BANNER.png" alt="Quality Engineering Hub" width="100%">
 </p>
 
 <p align="center">
